@@ -15,3 +15,9 @@ In this Project, the design and fabrication of multi nut removing tool is propos
 2. To design and fabricate the complete assembly of the multiple operated spanner to be fitted to all vehicle wheels by adjusting pitch circle diameter by making pinion gear small or large as per wheel‟s pitch circle diameter.
 3. By replacing the motor with different gear arrangements in such manners that it can be operated manually by hand lever with less power requirement. The weight of the model can be reduced by using a light weight material of base plate.
 4. It is also suggested to operate it with different gear arrangements with less power required.
+
+
+
+
+
+Note : you will find Report of Thesis and Publication
