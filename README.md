@@ -9,7 +9,7 @@ can be successfully used as standard tool irrespective of the model of the vehic
 In this Project, the design and fabrication of multi nut removing tool is proposed. The static load analysis is performed. The fabrication of tool is completed by Shaping, welding and fitting processes. The tool is successfully manufactured and fully functional either tested manually using lever. From the results of analyses and experiments, the tool is possible to be improved and prototyped for mass production. For future development and improvement of the tool, light and strong material is expected to be available and applied.
 
 
-# Scope Future 
+#  Future scope 
 
 1. Improvement in the system by making automatic operation with the help of pneumatic system which is clean and hazardous free.
 2. To design and fabricate the complete assembly of the multiple operated spanner to be fitted to all vehicle wheels by adjusting pitch circle diameter by making pinion gear small or large as per wheel‟s pitch circle diameter.
