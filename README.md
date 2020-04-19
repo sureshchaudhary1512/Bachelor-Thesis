@@ -33,3 +33,7 @@ In this Project, the design and fabrication of multi nut removing tool is propos
 
 
 Note : you will find Report of Thesis and Publication
+
+
+# Publication
+<img src= "IJRISE.jpg" >
